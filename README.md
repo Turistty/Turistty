@@ -17,6 +17,7 @@
 
 ###
 
+<h3 align="center">💻 Linguagens de Programação & Hardware</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
   <img width="12" />
@@ -26,13 +27,37 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="60" alt="embeddedc logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="60" alt="grafana logo"  />
+  <img src="https://www.svgrepo.com/show/374163/verilog.svg" height="60" alt="Verilog logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/374115/systemverilog.svg" height="60" alt="SystemVerilog logo"  />
+</div>
+
+###
+
+<h3 align="center">🗃️ Bancos de Dados</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://th.bing.com/th/id/R.4720d0bf108f3b4d472109485259c33d?rik=F9YN9XN1dbIuxA&pid=ImgRaw&r=0" height="60" alt="Microsoft Access logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original-wordmark.svg" height="60" alt="InfluxDB logo" />
+</div>
+
+###
+
+<h3 align="center">⚙️ Ferramentas & Tecnologias</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="60" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/download/374159/vba.svg" height="60" alt="VBA logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://www.think-self.com/wp-content/uploads/2021/04/mt4-icon.png" height="60" alt="mq4 logo"  />
 </div>
 
 ###
